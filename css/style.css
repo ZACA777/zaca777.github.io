@@ -48,6 +48,9 @@ h2 {
 .social img {
   width: 33px;
   margin-top: 5px;
+  border: 2px solid white;
+  box-shadow: 0 0 10px white;
+  border-radius: 86%;
 }
 
 .links-list {
@@ -63,6 +66,8 @@ h2 {
   background-color: white;
   padding: 15px 20px;
   border-radius: 4px;
+  border: 2px solid white;
+  box-shadow: 0 0 16px white;
   text-decoration: none;
   color: rgb(86, 105, 70);
   font-weight: bold;
