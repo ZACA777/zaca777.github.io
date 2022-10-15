@@ -12,14 +12,14 @@ body {
   font-family: 'Raleway', sans-serif;
   color: white;
   background: rgb(54, 77, 204);
-  background: linear-gradient(176deg, rgba(54, 77, 204, 1) 0%, rgba(21, 36, 113, 1) 100%);
+  background: linear-gradient(176deg, rgb(54, 204, 147) 0%, rgb(50, 113, 21) 100%);
 }
 
 .avatar {
   width: 100px;
-  border-radius: 50px;
+  border-radius: 50px 10px 50px 10px;
   border: 3px solid white;
-  box-shadow: 0 0 20px white;
+  box-shadow: 0 0 30px white;
 }
 
 h1 {
@@ -64,7 +64,7 @@ h2 {
   padding: 15px 20px;
   border-radius: 4px;
   text-decoration: none;
-  color: rgb(54, 77, 204);
+  color: rgb(86, 105, 70);
   font-weight: bold;
 }
 
