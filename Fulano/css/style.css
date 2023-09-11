@@ -10,14 +10,14 @@ body {
 
 body {
   font-family: 'Raleway', sans-serif;
-  color: white;
+  color: rgb(238, 201, 230);
   background: rgb(54, 77, 204);
   background: linear-gradient(176deg, rgb(54, 204, 147) 0%, rgb(50, 113, 21) 100%);
 }
 
 .avatar {
-  width: 100px;
-  border-radius: 50px 10px 50px 10px;
+  width: 300px;
+  border-radius: 10px 10px;
   border: 3px solid white;
   box-shadow: 0 0 30px white;
 }
