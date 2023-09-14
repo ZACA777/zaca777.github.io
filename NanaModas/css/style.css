@@ -12,7 +12,7 @@ body {
   font-family: 'Raleway', sans-serif;
   color: rgb(238, 201, 230);
   background: rgb(54, 77, 204);
-  background: linear-gradient(176deg, rgb(54, 204, 147) 0%, rgb(50, 113, 21) 100%);
+  background: linear-gradient(176deg, rgb(172, 106, 30) 0%, rgb(50, 113, 21) 100%);
 }
 
 .avatar {
