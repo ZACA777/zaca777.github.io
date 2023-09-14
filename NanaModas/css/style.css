@@ -69,6 +69,7 @@ h2 {
   border: 2px solid white;
   box-shadow: 0 0 16px white;
   text-decoration: none;
+  text-align: justify;
   color: rgb(86, 105, 70);
   font-weight: bold;
 }
